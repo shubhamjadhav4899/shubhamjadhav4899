@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">My self Shubham Jadhav .I am from Pune, Maharastra <br><br>- 📚 Engineering graduate <br>- 🔭 Enthusiastic full stack developer<br>- ⚡ I Enjoy Programming</p>
+<p align="left">My self Shubham Jadhav .I am from Pune, Maharastra <br><br>- 📚 Engineering graduate <br>- 🔭 Enthusiastic full stack developer<br>- ⚡ I Love to Code</p>
 
 ###
 
