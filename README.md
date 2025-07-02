@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Shubham Jadhav from Pune<br><br>- 📚 2022 BE graduate <br>- 🔭 Enthusiastic full stack developer<br>- ⚡ I love to do Programming</p>
+<p align="left">I'm Shubham Jadhav from Pune<br><br>- 📚 2022 BE graduate <br>- 🔭 Enthusiastic full stack developer<br>- ⚡ I Enjoy Programming</p>
 
 ###
 
